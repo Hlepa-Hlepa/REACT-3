@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-import Tab1 from './TAB1/Tab1'; // Исправленный путь
-import Tab2 from './components/Tab2';
+import Tab1 from './TAB1/Tab1';
+import Tab2 from './TAB2/Tab2';
 import Tab3 from './components/Tab3';
 import Tab4 from './components/Tab4';
 import Tab5 from './components/Tab5';
